@@ -6,7 +6,7 @@ namespace HelloWorldSample
 	{
 		public static void Main() 
 		{
-			Console.WriteLine("Hello World!");
+			Console.WriteLine("Hello.. I am a .Net Core App..Running on Nexio..!!");
 		}
 	}
 }
